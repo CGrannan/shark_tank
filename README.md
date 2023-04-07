@@ -11,11 +11,13 @@ The dataset comes from Kaggle and can be found [here](https://www.kaggle.com/dat
 ## Files
 
 archive.zip - compressed file containing the original dataset from Kaggle
+
 shark_tank.ipynb - jupyter notebook containing the primary code for this project
 
 Files to be deleted before project is completed:
 
 shark_tank_data.csv - file is contained within archive.zip
+
 Supplemental research CSVs
 
 ## About the authors
