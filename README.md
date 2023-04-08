@@ -9,12 +9,12 @@ For this project, we will be exploring, analyzing and modeling data about pitche
 The dataset comes from Kaggle and can be found [here](https://www.kaggle.com/datasets/thirumani/shark-tank-us-dataset). We found that several columns were incomplete or inaccurate and have supplemented the information presented in Kaggle with our own research. Additionally, we have done some standard data cleaning (filling nulls, standardizing data types) to make the data explorable.
 
 ## Files
-  -archive.zip - compressed file containing the original dataset from Kaggle
-  -shark_tank.ipynb - jupyter notebook containing the primary code for this project
+- archive.zip - compressed file containing the original dataset from Kaggle
+- shark_tank.ipynb - jupyter notebook containing the primary code for this project
 
 Files to be deleted before project is completed:  
--shark_tank_data.csv - file is contained within archive.zip. 
--Supplemental research CSVs
+- shark_tank_data.csv - file is contained within archive.zip. 
+- Supplemental research CSVs
 
 ## About the authors
 Chris - He's mostly alright.  
